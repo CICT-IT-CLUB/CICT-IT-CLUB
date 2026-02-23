@@ -1,16 +1,35 @@
-## Hi there 👋
+# 💻 IT Club at College of ICT
 
-<!--
-**CICT-IT-CLUB/CICT-IT-CLUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Giới thiệu chung
+Chào mừng bạn đến với trang GitHub của **[Câu lạc bộ Tin Học](https://www.facebook.com/ctuit.club) thuộc Đoàn Trường Công Nghệ Thông Tin và Truyền Thông của [Đại học Cần Thơ](https://www.ctu.edu.vn/)**. Tại đây, chúng tôi xây dựng và chia sẻ các dự án về **công nghệ web**, **AI**, và nhiều hơn thế nữa.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mục tiêu hoạt động
+
+- Nâng cao kiến thức và kỹ năng về công nghệ thông tin.
+- Tạo môi trường giao lưu, học hỏi giữa các thành viên và sinh viên.
+- Hỗ trợ sinh viên phát triển kỹ năng nghề nghiệp.
+- Tham gia các cuộc thi, dự án và hoạt động nghiên cứu.
+
+---
+
+## 🧠 Công nghệ sử dụng
+
+Chúng tôi xây dựng sản phẩm chủ yếu bằng:
+
+<div style="display: flex; align-items: flex-start; align-items: center; justify-content: flex-start; gap: 10px;">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</div>
+
+---
+
+## 📞 Thông tin liên hệ
+* 📧 **Email:** itc.cit.ctu@gmail.com
+* 🌐 **Facebook:** https://www.facebook.com/ctuit.club
+* 🏪 **Github Organization:** https://github.com/CTU-ITClub
+
